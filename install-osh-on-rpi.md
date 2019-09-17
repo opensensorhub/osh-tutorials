@@ -37,7 +37,7 @@ $ ./launch.sh
 ## Log into OSH Admin
 
 1. Open browser on Raspberry Pi.
-2. Go to (http://localhost:8181/sensorhub/admin)
+2. Go to [http://localhost:8181/sensorhub/admin]
 3. Default login is username: `admin`, password: `admin`
 
 ## Clone and Install OSH Core

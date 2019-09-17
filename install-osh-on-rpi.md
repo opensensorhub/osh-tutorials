@@ -45,9 +45,7 @@ $ ./launch.sh
 If you want to work with the code, run the following commands in the Terminal
 
 ```bash
-git clone –recursive https://github.com/opensensorhub/osh-core
-
-cd osh-core
-
-./gradlew build -x test
+$ git clone –recursive https://github.com/opensensorhub/osh-core
+$ cd osh-core
+$ ./gradlew build -x test
 ```

@@ -2,3 +2,9 @@ title: OSH Tutorials
 
 #theme: jekyll-theme-architect
 remote_theme: pmarsceill/just-the-docs
+
+exclude: ["README.md"]
+
+aux_links:
+  "OpenSensorHub on GitHub":
+    - "//github.com/opensensorhub"

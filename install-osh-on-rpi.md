@@ -28,13 +28,10 @@
 1. Open the Terminal and type the following commands
 
 ```bash
-wget https://github.com/opensensorhub/osh-core/releases/download/v1.3.2/osh-base-install-1.3.2.zip
-
-unzip osh-base-install-1.3.2.zip
-
-cd osh-base-install-1.3.2
-
-./launch.sh
+$ wget https://github.com/opensensorhub/osh-core/releases/download/v1.3.2/osh-base-install-1.3.2.zip
+$ unzip osh-base-install-1.3.2.zip
+$ cd osh-base-install-1.3.2
+$ ./launch.sh
 ```
 
 ## Log into OSH Admin

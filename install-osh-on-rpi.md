@@ -27,7 +27,7 @@
 
 1. Open the Terminal and type the following commands
 
-```
+```bash
 wget https://github.com/opensensorhub/osh-core/releases/download/v1.3.2/osh-base-install-1.3.2.zip
 
 unzip osh-base-install-1.3.2.zip
@@ -47,7 +47,7 @@ cd osh-base-install-1.3.2
 
 If you want to work with the code, run the following commands in the Terminal
 
-```
+```bash
 git clone –recursive https://github.com/opensensorhub/osh-core
 
 cd osh-core
